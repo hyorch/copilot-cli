@@ -1,5 +1,5 @@
 ---
-name: list-kubernetes-clusters
+name: k8s-list
 description: lista los clusters de kubernetes disponibles
 ---
 
